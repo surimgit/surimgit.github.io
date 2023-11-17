@@ -34,22 +34,34 @@ project_entries:
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
-
+  
+  - title: Project 7
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+ 
+  - title: Project 8
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)    
+  
+  - title: Project 9
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)    
+    
 old_project_entries:
-  - title: Soopr
+  - title: Computer network
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: Cookie
+  - title: Opensource software
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: System ㅔrogramming
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
+  - title: Image processing
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
 
